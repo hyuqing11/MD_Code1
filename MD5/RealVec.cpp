@@ -1,9 +1,3 @@
-//
-//  RealVec.cpp
-//  MD_Code
-//
-//  Created by 黄宇青 on 6/9/24.
-//
 
 #include "RealVec.hpp"
 RealVec::RealVec()

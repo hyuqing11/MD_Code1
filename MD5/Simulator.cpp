@@ -1,9 +1,3 @@
-//
-//  Simulator.cpp
-//  MD_Code
-//
-//  Created by 黄宇青 on 6/8/24.
-//
 
 #include "Simulator.hpp"
 #include <cstdlib>

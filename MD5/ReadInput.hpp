@@ -1,9 +1,4 @@
-//
-//  ReadInput.hpp
-//  MD_Code
-//
-//  Created by 黄宇青 on 6/8/24.
-//
+
 
 #ifndef ReadInput_hpp
 #define ReadInput_hpp

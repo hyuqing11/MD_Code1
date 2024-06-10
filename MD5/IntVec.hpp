@@ -1,9 +1,4 @@
-//
-//  IntVec.hpp
-//  MD_Code
-//
-//  Created by 黄宇青 on 6/9/24.
-//
+
 
 #ifndef IntVec_hpp
 #define IntVec_hpp
